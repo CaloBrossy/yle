@@ -37,7 +37,7 @@ export const FLOWERS_DATA: Record<string, FlowerMeaning> = {
     name: 'Jazmín',
     botanicalName: 'Jasminum officinale',
     meaning: 'Ternura',
-    quote: 'La delicadeza que aromatiza sin pedir permiso, suave en el aire de la noche.',
+    quote: 'La delicadeza que aromatiza sin pedir permiso, suave en el aire de la existencia.',
     colorPalette: {
       primary: '#fcfbf7',
       secondary: '#f3ece1',
@@ -69,7 +69,7 @@ export const FLOWERS_DATA: Record<string, FlowerMeaning> = {
     name: 'Margarita',
     botanicalName: 'Bellis perennis',
     meaning: 'Alegría',
-    quote: 'La pureza de una sonrisa limpia, luminosa como el primer rayo de sol.',
+    quote: 'La pureza de una sonrisa limpia, luminosa como la primera luz en tus ojos.',
     colorPalette: {
       primary: '#ffffff',
       secondary: '#f4f3ec',

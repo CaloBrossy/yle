@@ -22,7 +22,7 @@ export const ExperienceControls: React.FC<ExperienceControlsProps> = ({
   const getActionPrompt = () => {
     switch (stage) {
       case 'darkness':
-        return 'Toca para dejar caer la semilla';
+        return 'Cuando algo florece, la luz lo encuentra';
       case 'seed':
         return 'Observa nacer el tallo';
       case 'stem_growth':
@@ -32,7 +32,7 @@ export const ExperienceControls: React.FC<ExperienceControlsProps> = ({
       case 'peony_revealed':
         return 'Toca para reunir el ramo';
       case 'bouquet_reveal':
-        return 'Hacia una nueva luz...';
+        return 'Y algo más...';
       case 'spring_transition':
         return 'Despertar la primavera';
       case 'yellow_blooming':

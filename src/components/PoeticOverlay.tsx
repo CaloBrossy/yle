@@ -40,7 +40,7 @@ export const PoeticOverlay: React.FC<PoeticOverlayProps> = ({
       <div className="flex-1 flex flex-col items-center justify-center text-center max-w-xl mx-auto px-4 my-auto">
         {/* ESCENA 1: La semilla en la oscuridad */}
         {(stage === 'darkness' || stage === 'seed') && (
-          <div className="transition-all duration-1000 ease-out space-y-6 px-8 py-6 rounded-2xl bg-black/45 backdrop-blur-sm border border-white/5 shadow-xl">
+          <div className="transition-all duration-2000 ease-out space-y-6 px-8 py-6 rounded-2xl bg-black/45 backdrop-blur-sm border border-white/5 shadow-xl">
             <p className="font-serif text-2xl sm:text-3xl md:text-4xl text-[#efebe4] font-light leading-relaxed tracking-wide italic drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)]">
               &ldquo;{POETIC_VERSES.scene1.whisper1}&rdquo;
             </p>
