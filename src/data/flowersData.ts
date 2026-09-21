@@ -245,7 +245,7 @@ export const BOUQUET_FLOWERS: FlowerPlacement[] = [
 
 export const POETIC_VERSES = {
   scene1: {
-    whisper1: "Hay cosas que uno quisiera poder entregar con las manos.",
+    whisper1: "Quería regalarte flores... pero no encontré la forma de hacerlas llegar hasta vos. Así que hice un pequeño lugar para vos",
   },
   scene2: {
     flowerName: "Peonía",

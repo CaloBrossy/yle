@@ -67,7 +67,7 @@ export const PoeticOverlay: React.FC<PoeticOverlayProps> = ({
         {stage === 'spring_transition' && (
           <div className="transition-all duration-1000 ease-out space-y-4 px-8 py-6 rounded-2xl bg-black/50 backdrop-blur-md border border-white/10 shadow-2xl animate-fade-in">
             <p className="font-serif text-2xl sm:text-3xl text-[#ffe6a7] font-light italic leading-relaxed tracking-wide drop-shadow-[0_2px_10px_rgba(0,0,0,0.9)]">
-              Una nueva luz despierta...
+              No quiero que seas espectadora...
             </p>
           </div>
         )}
