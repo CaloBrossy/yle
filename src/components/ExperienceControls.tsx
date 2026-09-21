@@ -53,7 +53,6 @@ export const ExperienceControls: React.FC<ExperienceControlsProps> = ({
           onClick={onAdvance}
           className="group flex items-center gap-2.5 px-6 py-2.5 rounded-full border border-white/15 bg-black/50 backdrop-blur-md hover:bg-black/70 hover:border-white/30 text-[#e6ded2] transition-all cursor-pointer shadow-lg"
         >
-          <Sparkles size={14} className="text-[#fed049] opacity-80 group-hover:opacity-100 transition-opacity" />
           <span className="font-serif text-sm sm:text-base tracking-widest italic">
             {getActionPrompt()}
           </span>
