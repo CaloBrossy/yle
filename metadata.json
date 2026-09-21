@@ -1,0 +1,6 @@
+{
+  "name": "Para Vos — Peonía",
+  "description": "Una experiencia poética y audiovisual en 3D donde florece una peonía procedural como regalo artesanal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
